@@ -1,0 +1,11 @@
+id: aa68dcf05915404894fe2b47e711ff1f
+annotation_type: index
+revision: '00001'
+annotations:
+  4fea4d4a0cf8449ba458159fb7703b6a:
+    base: 486F.txt
+    Chapters:
+    - title: Ṣoḍaśaka
+      span:
+        start: 0
+        end: 65
